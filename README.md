@@ -1,4 +1,4 @@
-# 📋 Django & Vue 3 Kanban App (Trello Clone)
+# 📋 Django & Vue 3 Kanban App 
 
 Bu proje, modern web teknolojileri kullanılarak geliştirilmiş, **Sürükle-Bırak (Drag & Drop)** özellikli bir görev yönetim uygulamasıdır. Kullanıcıların görevlerini "Yapılacaklar", "Sürüyor" ve "Tamamlandı" statüleri arasında kolayca taşımasına olanak tanır.
 
